@@ -1,0 +1,541 @@
+[
+    {
+        "name": "ilam",
+        "headquarter": "ilam",
+        "province": 1,
+        "lat": "26.8999964",
+		"long": "87.9333296"
+    },
+    {
+        "name": "jhapa",
+        "headquarter": "bhadrapur",
+        "province": 1, 		
+        "lat": "26.63982", 		
+        "long": "87.8942451"   
+    },
+    {
+        "name": "panchthar",
+        "headquarter": "phidim",
+        "province": 1, 		
+        "lat": "27.2036401", 		
+        "long": "87.8156715"
+    },
+    {
+        "name": "taplejung",
+        "headquarter": "taplejung",
+        "province": 1, 		
+        "lat": "27.35", 		
+        "long": "87.6666667"
+    },
+    {
+        "name": "bhojpur",
+        "headquarter": "bhojpur",
+        "province": 1, 		
+        "lat": "27.1666667", 		
+        "long": "87.05"
+    },
+    {
+        "name": "dhankuta",
+        "headquarter": "dhankuta",
+        "province": 1, 		
+        "lat": "26.9833333", 		
+        "long": "87.3333333"
+    },
+    {
+        "name": "morang",
+        "headquarter": "biratnagar",
+        "province": 1, 		
+        "lat": "26.6799002", 		
+        "long": "87.460397"
+    },
+    {
+        "name": "sankhuwasabha",
+        "headquarter": "khandbari",
+        "province": 1, 		
+        "lat": "27.6141916", 		
+        "long": "87.1422895"
+    },
+    {
+        "name": "sunsari",
+        "headquarter": "inaruwa",
+        "province": 1, 		
+        "lat": "26.6275522", 		
+        "long": "87.1821709"
+    },
+    {
+        "name": "terhathum",
+        "headquarter": "myanglung",
+        "province": 1, 		
+        "lat": "27.198391", 		
+        "long": "87.5000082"
+    },
+    {
+        "name": "khotang",
+        "headquarter": "diktel",
+        "province": 1, 		
+        "lat": "27.2317177", 		
+        "long": "86.8220341"
+    },
+    {
+        "name": "okhaldhunga",
+        "headquarter": "Siddhicharan",
+        "province": 1, 		
+        "lat": "27.3166667", 		
+        "long": "86.5"
+    },
+    {
+        "name": "solukhumbu",
+        "headquarter": "salleri",
+        "province": 1, 		
+        "lat": "27.7909733", 		
+        "long": "86.6611083"
+    },
+    {
+        "name": "udayapur",
+        "headquarter": "gaighat",
+        "province": 1, 		
+        "lat": "27.57", 		
+        "long": "82.9"
+    },
+    {
+        "name": "saptari",
+        "headquarter": "rajbiraj",
+        "province": 2, 		
+        "lat": "26.8999964", 		
+        "long": "87.9333296"
+    },
+    {
+        "name": "siraha",
+        "headquarter": "siraha",
+        "province": 2, 		
+        "lat": "26.8999964", 		
+        "long": "87.9333296"
+    },
+    {
+        "name": "dhanusa",
+        "headquarter": "janakpur",
+        "province": 2, 		
+        "lat": "26.8999964", 		
+        "long": "87.9333296"
+    },
+    {
+        "name": "mahottari",
+        "headquarter": "jaleswar",
+        "province": 2, 		
+        "lat": "26.8999964", 		
+        "long": "87.9333296"
+    },
+    {
+        "name": "sarlahi",
+        "headquarter": "malangwa",
+        "province": 2, 		
+        "lat": "27.0084093", 		
+        "long": "85.520024"
+    },
+    {
+        "name": "bara",
+        "headquarter": "kalaiya",
+        "province": 2, 		
+        "lat": "27.0333333", 		
+        "long": "85"
+    },
+    {
+        "name": "parsa",
+        "headquarter": "birgunj",
+        "province": 2, 		
+        "lat": "26.8833333", 		
+        "long": "85.6333333"
+    },
+    {
+        "name": "rautahat",
+        "headquarter": "gaur",
+        "province": 2, 		
+        "lat": "26.57", 		
+        "long": "86.53"
+    },
+    {
+        "name": "dholkha",
+        "headquarter": "bhimeshwar",
+        "province": 3, 		
+        "lat": "27.7784288", 		
+        "long": "86.1751759"
+    },
+    {
+        "name": "ramechhap",
+        "headquarter": "manthali",
+        "province": 3, 		
+        "lat": "27.3333333", 		
+        "long": "86.0833333"
+    },
+    {
+        "name": "sindhuli",
+        "headquarter": "kamalamai",
+        "province": 3, 		
+        "lat": "27.2568824", 		
+        "long": "85.971322"
+    },
+    {
+        "name": "bhaktapur",
+        "headquarter": "bhaktapur",
+        "province": 3, 		
+        "lat": "27.673031", 		
+        "long": "85.427856"
+    },
+    {
+        "name": "dhading",
+        "headquarter": "nilkantha",
+        "province": 3, 		
+        "lat": "27.8666667", 		
+        "long": "84.9166667"
+    },
+    {
+        "name": "kathmandu",
+        "headquarter": "kathmandu",
+        "province": 3, 		
+        "lat": "27.702871", 		
+        "long": "85.318244"
+    },
+    {
+        "name": "kavrepalanchok",
+        "headquarter": "dhulikhel",
+        "province": 3, 		
+        "lat": "27.525942", 		
+        "long": "85.56121"
+    },
+    {
+        "name": "lalitpur",
+        "headquarter": "lalitpur",
+        "province": 3, 		
+        "lat": "27.5419673", 		
+        "long": "85.3342973"
+    },
+    {
+        "name": "nuwakot",
+        "headquarter": "bidur",
+        "province": 3, 		
+        "lat": "27.97", 		
+        "long": "83.06"
+    },
+    {
+        "name": "rasuwa",
+        "headquarter": "dhunche",
+        "province": 3, 		
+        "lat": "27.083333", 		
+        "long": "86.433333"
+    },
+    {
+        "name": "sindhupalchok",
+        "headquarter": "chautara",
+        "province": 3, 		
+        "lat": "27.9512034", 		
+        "long": "85.684578"
+    },
+    {
+        "name": "chitwan",
+        "headquarter": "bharatpur",
+        "province": 3, 		
+        "lat": "27.529131", 		
+        "long": "84.3542049"
+    },
+    {
+        "name": "makwanpur",
+        "headquarter": "hetauda",
+        "province": 3, 		
+        "lat": "27.3730012", 		
+        "long": "85.1894045"
+    },
+    {
+        "name": "gorkha",
+        "headquarter": "gorkha",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28", 		
+        "long": "84.6333333"
+    },
+    {
+        "name": "kaski",
+        "headquarter": "pokhara",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.28236", 		
+        "long": "83.866028"
+    },
+    {
+        "name": "lamjung",
+        "headquarter": "besisahar",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.2765491", 		
+        "long": "84.3542049"
+    },
+    {
+        "name": "manang",
+        "headquarter": "chame",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.6666667", 		
+        "long": "84.0166667"
+    },
+    {
+        "name": "syangja",
+        "headquarter": "putalibazar",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.1046333", 		
+        "long": "83.8791074"
+    },
+    {
+        "name": "tanahun",
+        "headquarter": "damauli",
+        "province": "Gandaki Pradesh", 		
+        "lat": "27.944705", 		
+        "long": "84.2278796"
+    },
+    {
+        "name": "nawalpur",
+        "headquarter": "kawasoti",
+        "province": "Gandaki Pradesh", 		
+        "lat": "27.32", 		
+        "long": "83.4"
+    },
+    {
+        "name": "baglung",
+        "headquarter": "baglung",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.2666667", 		
+        "long": "83.6"
+    },
+    {
+        "name": "mustang",
+        "headquarter": "jomsom",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.9985065", 		
+        "long": "83.8473015"
+    },
+    {
+        "name": "myagdi",
+        "headquarter": "beni",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.611176", 		
+        "long": "83.5070203"
+    },
+    {
+        "name": "parbat",
+        "headquarter": "kusma",
+        "province": "Gandaki Pradesh", 		
+        "lat": "28.178049", 		
+        "long": "83.6986568"
+    },
+    {
+        "name": "palpa",
+        "headquarter": "tansen",
+        "province": 5, 		
+        "lat": "27.8666667", 		
+        "long": "83.55"
+    },
+    {
+        "name": "rupandehi",
+        "headquarter": "Siddharthanagar",
+        "province": 5, 		
+        "lat": "27.6264239", 		
+        "long": "83.3789389"
+    },
+    {
+        "name": "arghakhanchi",
+        "headquarter": "sandhikharka",
+        "province": 5, 		
+        "lat": "28.0008333", 		
+        "long": "83.2466667"
+    },
+    {
+        "name": "gulmi",
+        "headquarter": "tamghas",
+        "province": 5, 		
+        "lat": "28.088934", 		
+        "long": "83.2934086"
+    },
+    {
+        "name": "kapilvastu",
+        "headquarter": "taulihawa",
+        "province": 5, 		
+        "lat": "27.5434407", 		
+        "long": "83.0549312"
+    },
+    {
+        "name": "parasi",
+        "headquarter": "ramgram",
+        "province": 5, 		
+        "lat": "27.32", 		
+        "long": "83.4"
+    },
+    {
+        "name": "dang deukhuri",
+        "headquarter": "ghorahi",
+        "province": 5, 		
+        "lat": "27.9904", 		
+        "long": "82.3018"
+    },
+    {
+        "name": "pyuthan",
+        "headquarter": "pyuthan khalanga",
+        "province": 5, 		
+        "lat": "28.1", 		
+        "long": "82.8666667"
+    },
+    {
+        "name": "rolpa",
+        "headquarter": "liwang",
+        "province": 5, 		
+        "lat": "28.3815621", 		
+        "long": "82.6483442"
+    },
+    {
+        "name": "eastern rukum",
+        "headquarter": "rukumkot",
+        "province": 5, 		
+        "lat": "28.37", 		
+        "long": "82.37"
+    },
+    {
+        "name": "banke",
+        "headquarter": "nepalgunj",
+        "province": 5, 		
+        "lat": "28.05", 		
+        "long": "81.6166667"
+    },
+    {
+        "name": "bardiya",
+        "headquarter": "gulariya",
+        "province": 5, 		
+        "lat": "28.8166667", 		
+        "long": "80.4833333"
+    },
+    {
+        "name": "western rukum",
+        "headquarter": "musikot",
+        "province": "Karnali Pradesh", 		
+        "lat": "28.63", 		
+        "long": "82.49"
+    },
+    {
+        "name": "salyan",
+        "headquarter": "salyan khalanga",
+        "province": "Karnali Pradesh", 		
+        "lat": "28.28", 		
+        "long": "83.79"
+    },
+    {
+        "name": "dolpa",
+        "headquarter": "dunai",
+        "province": "Karnali Pradesh", 		
+        "lat": "28.998686", 		
+        "long": "82.816437"
+    },
+    {
+        "name": "humla",
+        "headquarter": "simikot",
+        "province": "Karnali Pradesh", 		
+        "lat": "30.0052", 		
+        "long": "81.9535"
+    },
+    {
+        "name": "jumla",
+        "headquarter": "Chandannath",
+        "province":" Karnali Pradesh", 		
+        "lat": "29.2788", 		
+        "long": "82.1278"
+    },
+    {
+        "name": "kalikot",
+        "headquarter": "manma",
+        "province": "Karnali Pradesh", 		
+        "lat": "29.2089", 		
+        "long": "81.7349"
+    },
+    {
+        "name": "mugu",
+        "headquarter": "gamgadhi",
+        "province": "Karnali Pradesh", 		
+        "lat": "29.5069", 		
+        "long": "82.0843"
+    },
+    {
+        "name": "dailekh",
+        "headquarter": "narayan",
+        "province": "Karnali Pradesh", 		
+        "lat": "28.9262", 		
+        "long": "81.6473"
+    },
+    {
+        "name": "jajarkot",
+        "headquarter": "khalanga",
+        "province": "Karnali Pradesh", 		
+        "lat": "28.8651", 		
+        "long": "82.1714"
+    },
+    {
+        "name": "surkhet",
+        "headquarter": "Birendranagar",
+        "province": "Karnali Pradesh", 		
+        "lat": "28.5175", 		
+        "long": "81.7787"
+    },
+    {
+        "name": "achham",
+        "headquarter": "mangalsen",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.0396", 		
+        "long": "81.2519"
+    },
+    {
+        "name": "bajhang",
+        "headquarter": "Jayaprithvi",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.7767", 		
+        "long": "81.2519"
+    },
+    {
+        "name": "bajura",
+        "headquarter": "martadi",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.6155", 		
+        "long": "81.6035"
+    },
+    {
+        "name": "doti",
+        "headquarter": "dipayal silgadhi",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.2006", 		
+        "long": "80.8987"
+    },
+    {
+        "name": "kailali",
+        "headquarter": "dhangadhi",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "28.8314", 		
+        "long": "80.8987"
+    },
+    {
+        "name": "baitadi",
+        "headquarter": "dasharathchand",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.5013", 		
+        "long": "80.5883"
+    },
+    {
+        "name": "dadeldhura",
+        "headquarter": "Amargadhi",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.2188", 		
+        "long": "80.4994"
+    },
+    {
+        "name": "darchula",
+        "headquarter": "Khalanga, Mahakali",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "29.8812", 		
+        "long": "80.7658"
+    },
+    {
+        "name": "kanchanpur",
+        "headquarter": "bhimdatta",
+        "province": "Sudurpashchim Pradesh", 		
+        "lat": "28.8372", 		
+        "long": "80.3213"
+    }   
+]
